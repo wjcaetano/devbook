@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b95b3f-bec4-4614-b928-976641cee53a" name="Changes" comment="Adicionado pacote de rotas e controllers" />
+    <list default="true" id="60b95b3f-bec4-4614-b928-976641cee53a" name="Changes" comment="Pacotes Main e Router" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go Application" />
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -35,7 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
+    "DefaultGoTemplateProperty": "Go Application",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
@@ -108,9 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pacotes Main e Router" />
-    <MESSAGE value="Add git configurations" />
-    <MESSAGE value="Adicionado pacote de rotas e controllers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado pacote de rotas e controllers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pacotes Main e Router" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
