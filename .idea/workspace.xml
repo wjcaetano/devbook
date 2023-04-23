@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a461fd71-a435-4439-bda2-f5e6744cad33" name="Changes" comment="criado banco de dados">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+    <list default="true" id="a461fd71-a435-4439-bda2-f5e6744cad33" name="Changes" comment="Add pacote config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/api/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/api/go.sum" afterDir="false" />
@@ -70,13 +69,33 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/src/config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build api">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="devbook" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="devbook" />
+      <working_directory value="$PROJECT_DIR$/api" />
+      <kind value="PACKAGE" />
+      <package value="api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build devbook/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="devbook" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -106,8 +125,15 @@
       <framework value="gotest" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Go Build.go build api" />
+      <item itemvalue="Go Build.go build devbook/" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build api" />
+        <item itemvalue="Go Build.go build devbook/" />
         <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
@@ -130,7 +156,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pacotes Main e Router" />
     <MESSAGE value="criado banco de dados" />
-    <option name="LAST_COMMIT_MESSAGE" value="criado banco de dados" />
+    <MESSAGE value="Add pacote config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add pacote config" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
